@@ -1,4 +1,4 @@
-🏏 Test Cricket Batting Data Cleaning & EDA
+🏏 Test Cricket Batting Data Cleaning & EDa
 
 This project involves cleaning and exploring a real-world dataset of Test cricket batting statistics. The goal is to transform messy, raw data into a structured format suitable for analysis, and to gain insights through exploratory data analysis (EDA) and visualization.
 
